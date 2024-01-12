@@ -17,10 +17,6 @@ MAC: ??? i have no idea my bad ???
 ## Content
 
 ### Cosmic Cosmetics
-> You're pulled in by a sign for cosmetic surgery.
-<br>
-Standing in the waiting room you can't help but think...
-<br>
-You could always look better...right?
+> You're pulled in by a sign for cosmetic surgery. Standing in the waiting room you can't help but think... You could always look better...right?
 
 ![event image](https://i.imgur.com/D6XHho0.png)
