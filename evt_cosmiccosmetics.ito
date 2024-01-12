@@ -1,0 +1,21 @@
+[event]
+name="COSMIC COSMETICS"
+location="hospital"
+author="libus"
+contact="@libus"
+flavor="You're pulled in by a sign for cosmetic surgery. #Standing in the waiting room you can't help but think... ##You could always look better...right?"
+options="2"
+image="custom\images\img_surgeon.png"
+big="1"
+
+optiona="get a touch-up"
+testa="luck"
+successa="Your surgery went off without a hitch, and you feel more at ease after your touch up."
+winprizea="doom"
+winnumbera="-5"
+failurea="You come out of the surgery looking exactly the same, but you can't help but feel like something is missing..."
+failprizea="injury"
+
+optionb="leave"
+testb="story"
+successb="You can't let go of the uneasy look in the doctor's eyes.##Maybe another time."
